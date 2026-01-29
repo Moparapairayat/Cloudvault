@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<div align="center">
 
 # بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ
@@ -689,3 +690,6 @@ Join the community!
 *Crafting digital excellence, one project at a time.*
 
 </div>
+=======
+# Cloudv
+>>>>>>> 505025b7d62798d152215b427d9476797c186b53
