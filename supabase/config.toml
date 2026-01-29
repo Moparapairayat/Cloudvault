@@ -1,0 +1,10 @@
+project_id = "fnpkjmrjpiheetkuxafs"
+
+[functions.r2-upload]
+verify_jwt = false
+
+[functions.r2-download]
+verify_jwt = false
+
+[functions.r2-delete]
+verify_jwt = false
