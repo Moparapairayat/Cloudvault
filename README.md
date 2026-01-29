@@ -41,7 +41,7 @@
 <!-- CTA Section -->
 <div>
 
-### 🚀 [Live Demo](https://unizens.vercel.app/) • 📧 [Contact](#-contact) • 🔗 [Documentation](#-deployment) • 💼 [Learn More](#tech-stack)
+### 🚀 [Live Demo](https://cloudvaults.vercel.app/) • 📧 [Contact](#-contact) • 🔗 [Documentation](#-deployment) • 💼 [Learn More](#tech-stack)
 
 </div>
 ---
@@ -62,7 +62,7 @@ Create an account from the sign-up screen. No default demo users are bundled.
 
 <div align="center">
 
-![CloudVault Dashboard - Drive](./public/placeholder.svg)
+![CloudVault Dashboard - Drive](./public/placeholder.png)
 
 *CloudVault drive view with uploads, folders, search, and previews*
 
